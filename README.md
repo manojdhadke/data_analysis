@@ -7,7 +7,7 @@ This code is a Jupyter notebook for web scraping using the Beautiful Soup Python
 Original file is located at
     https://colab.research.google.com/github/manojdhadke/data_analysis/blob/main/Data%20Auquisition%20Using%20Webscraping%20Beautiful%20Soap%20Python%20Module.ipynb
 
-
+Repository Link https://github.com/manojdhadke/data_analysis.git
 ## Authors
 
 - [@manojdhadke](https://github.com/manojdhadke)
